@@ -2,8 +2,7 @@ readme for the code associated to the manuscript
 "How energy determines spatial localisation and copy number of molecules in neurons"
 by Cornelius Bergmann, Kanaan Mousaei, and Tatjana Tchumatchenko.
 
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-%%%%%%%%%%%%%%%%%%%%%%%%%%%% 1. System requirements  %%%%%%%%%%%%%%%%%%%%%%%%%%%%
+1. System requirements 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 The only required program is MATLAB 2022b with the "Parallel Computing Toolbox" installed. It can also be used without the latter with decreased performance by replacing every instance of "parofor" by "for".
@@ -14,8 +13,7 @@ Software has successfully been tested on various machines with Windows as operat
 
 No specific hardware is necessary to run the code.
 
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%  2. Installation guide  %%%%%%%%%%%%%%%%%%%%%%%%%%%%
+2. Installation guide
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 If MATLAB2022b and the aforementioned toolboxes are installed, no additional installation procedure is required.
@@ -23,15 +21,13 @@ If MATLAB2022b and the aforementioned toolboxes are installed, no additional ins
 First, change the directory to "\energyDeterminesMolecules-code" and run "initPath_MATLAB". 
 It adds the whole project folder with subfolders to the MATLAB path. 
 
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%         3. Demo         %%%%%%%%%%%%%%%%%%%%%%%%%%%%
+3. Demo
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 An exemplary simulation of mRNA and protein distributions and the associated costs can be found in "master_exampleSimulation.m". 
 The expected run time is less than a minute on an average PC (depending on the chosen parameters).
 
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-%%%%%%%%%%%%%%%%%%%%%%%%%%%% 4. Instructions for use %%%%%%%%%%%%%%%%%%%%%%%%%%%%
+4. Instructions for use
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 For Figures 1B, 1C, 3 and Supplementary Figures 1, 6, 11, 13
