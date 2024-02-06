@@ -4,7 +4,9 @@ by Cornelius Bergmann, Kanaan Mousaei, Silvio Rizzoli and Tatjana Tchumatchenko.
 
 # 1. System requirements 
 
-The only required program is MATLAB 2022b with the "Parallel Computing Toolbox" installed. It can also be used without the latter with decreased performance by replacing every instance of "parofor" by "for".
+The only required program is MATLAB 2022b with the "Parallel Computing Toolbox" installed. It can also be used without the latter with decreased performance by replacing every instance of "parfor" by "for".
+
+All datasets used throughout the manuscript are stored, i.e., no external data have to be downloaded.
 
 For Supplementary Figure 11 (which is not related to the simulations of our model), the TREES toolbox (https://www.treestoolbox.org/) by Hermann Cuntz and colleagues is required.
 
