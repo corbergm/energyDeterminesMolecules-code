@@ -68,8 +68,7 @@ For rapid access, the simulation output with the parameters used in the manuscri
 
 To create the figure, execute the corresponding script in the folder "functions/figures". 
 
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%    Project structure    %%%%%%%%%%%%%%%%%%%%%%%%%%%%
+Project structure 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 "initPath_MATLAB" adds the whole project folder with subfolders to the MATLAB path. 
