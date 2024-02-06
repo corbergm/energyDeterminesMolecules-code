@@ -1,4 +1,4 @@
-readme for the code associated to the manuscript 
+README for the code associated to the manuscript 
 "How energy determines spatial localisation and copy number of molecules in neurons"
 by Cornelius Bergmann, Kanaan Mousaei, and Tatjana Tchumatchenko.
 
