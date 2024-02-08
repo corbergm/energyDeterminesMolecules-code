@@ -1,18 +1,10 @@
-<<<<<<< HEAD
-**readme for the code associated to the manuscript 
+readme for the code associated to the manuscript 
 "How energy determines spatial localisation and copy number of molecules in neurons"
-by Cornelius Bergmann, Kanaan Mousaei, and Tatjana Tchumatchenko.**
-=======
-**README for the code associated to the manuscript 
-"How energy determines spatial localisation and copy number of molecules in neurons"
-by Cornelius Bergmann, Kanaan Mousaei, Silvio Rizzoli and Tatjana Tchumatchenko.**
->>>>>>> b46783262479b23784a1ff6e5c577a717d1aef3d
+by Cornelius Bergmann, Kanaan Mousaei, and Tatjana Tchumatchenko.
 
 # 1. System requirements 
 
-The only required program is MATLAB 2022b with the "Parallel Computing Toolbox" installed. It can also be used without the latter with decreased performance by replacing every instance of "parfor" by "for".
-
-All datasets used throughout the manuscript are contained, i.e., no external data have to be downloaded.
+The only required program is MATLAB 2022b with the "Parallel Computing Toolbox" installed. It can also be used without the latter with decreased performance by replacing every instance of "parofor" by "for".
 
 For Supplementary Figure 11 (which is not related to the simulations of our model), the TREES toolbox (> https://www.treestoolbox.org/) by Hermann Cuntz and colleagues is required.
 
@@ -72,7 +64,6 @@ For rapid access, the simulation output with the parameters used in the manuscri
 
 To create the figure, execute the corresponding script in the folder "functions/figures". 
 
-<<<<<<< HEAD
 # Project structure   
 
 > "initPath_MATLAB" adds the whole project folder with subfolders to the MATLAB path. 
@@ -98,11 +89,11 @@ To create the figure, execute the corresponding script in the folder "functions/
 
 "/experimentalData/2022_05_20_morphologies_rat_hippocampus_control_culture_complete/andreae"
 > https://doi.org/10.1016/j.celrep.2015.01.032
-"/experimentalData/2022_05_20_morphologies_rat_hippocampus_control_culture_complete/banerjee"
+<"/experimentalData/2022_05_20_morphologies_rat_hippocampus_control_culture_complete/banerjee"
 > https://doi.org/10.1016/j.neuroscience.2017.08.057
-"/experimentalData/2022_05_20_morphologies_rat_hippocampus_control_culture_complete/bird"
+<"/experimentalData/2022_05_20_morphologies_rat_hippocampus_control_culture_complete/bird"
 > https://doi.org/10.1371/journal.pone.0079255
-"/experimentalData/2022_05_20_morphologies_rat_hippocampus_control_culture_complete/firestein"
+<"/experimentalData/2022_05_20_morphologies_rat_hippocampus_control_culture_complete/firestein"
 > https://doi.org/10.1093/cercor/bhy155
 "/experimentalData/2022_05_20_morphologies_rat_hippocampus_control_culture_complete/opitz"
 > https://doi.org/10.1016/j.brs.2021.09.004
@@ -170,28 +161,6 @@ To create the figure, execute the corresponding script in the folder "functions/
 > https://doi.org/10.1371/journal.pbio.0040271
 > https://doi.org/10.1371/journal.pbio.0040271
 > https://doi.org/10.3389/fnmol.2014.00091
-=======
-# Project structure 
-
-> "initPath_MATLAB" adds the whole project folder with subfolders to the MATLAB path. 
-
->> "/experimentalData" contains all experimental data we retrieved from online databases and publications. Their origins are detailed in the manuscript.
-
->> "/files" contains precomputed simulation outputs to recreate the manuscript figures.
-
->> "/functions" contains all scripts and functions used to perform simulations, analyze data or create figures.
-  
-  >>> "/functions/figures" contains all scripts that create, when run, at least one of the manuscripts figures or figure panels.
-  
-  >>> "/functions/model_core" contains all the core functions (i.e., those actually implementing or solving equations). 
-    >>>> "get_distribution" solves the main mRNA and protein equations,
-    >>>> "get_cost" computes the associated metabolic cost,
-    >>>> and the remaining three functions fit an ensemble diffusion constant to the 3-state transport model as explained in the manuscript.
-  
-  >>> "/functions/plotting" contains all functions that plot one or multiple panels of a figure.
-  
-  >>> "/functions/dataAnalysis" contains all functions that plot one or multiple panels of a figure
->>>>>>> b46783262479b23784a1ff6e5c577a717d1aef3d
 
 
 
