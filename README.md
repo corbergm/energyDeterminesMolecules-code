@@ -172,8 +172,14 @@ To create the figure, execute the corresponding script in the folder "functions/
 
 "/experimentalData/2023_09_25_proteinDiffConstants", "/experimentalData/Figure_3/protein_diffusion_coefficient"
 > https://doi.org/10.1016/S0012-1606(89)80051-X
+
+
 > https://doi.org/10.1073/pnas.1504762112
+
+
 > https://doi.org/10.3389/fnmol.2014.00091
+
+
 > https://doi.org/10.1093/brain/aws092
 > https://doi.org/10.1093/brain/aws092
 > https://doi.org/10.3389/fncel.2014.00151
