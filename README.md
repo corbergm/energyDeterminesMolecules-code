@@ -66,28 +66,28 @@ To create the figure, execute the corresponding script in the folder "functions/
 
 # Project structure   
 
-> "initPath_MATLAB" adds the whole project folder with subfolders to the MATLAB path. 
+"initPath_MATLAB" adds the whole project folder with subfolders to the MATLAB path. 
 
-> "/experimentalData" contains all experimental data we retrieved from online databases and publications. Their origins are detailed below.
+"/experimentalData" contains all experimental data we retrieved from online databases and publications. Their origins are detailed below.
 
-> "/files" contains precomputed simulation outputs to recreate the manuscript figures.
+"/files" contains precomputed simulation outputs to recreate the manuscript figures.
 
-> "/functions" contains all scripts and functions used to perform simulations, analyze data or create figures.
+"/functions" contains all scripts and functions used to perform simulations, analyze data or create figures.
   
-  >> "/functions/figures" contains all scripts that create, when run, at least one of the manuscripts figures or figure panels.
+  > "/functions/figures" contains all scripts that create, when run, at least one of the manuscripts figures or figure panels.
   
-  >> "/functions/model_core" contains all the core functions (i.e., those actually implementing or solving equations). 
-    >>> "get_distribution" solves the main mRNA and protein equations,
+  > "/functions/model_core" contains all the core functions (i.e., those actually implementing or solving equations). 
+    >> "get_distribution" solves the main mRNA and protein equations,
 
 
-    >>> "get_cost" computes the associated metabolic cost,
+    >> "get_cost" computes the associated metabolic cost,
 
 
-    >>> and the remaining three functions fit an ensemble diffusion constant to the 3-state transport model as explained in the manuscript.
+    >> and the remaining three functions fit an ensemble diffusion constant to the 3-state transport model as explained in the manuscript.
   
-  >> "/functions/plotting" contains all functions that plot one or multiple panels of a figure.
+  > "/functions/plotting" contains all functions that plot one or multiple panels of a figure.
   
-  >> "/functions/dataAnalysis" contains all functions that plot one or multiple panels of a figure
+  > "/functions/dataAnalysis" contains all functions that plot one or multiple panels of a figure
 
 # Data sources
 
