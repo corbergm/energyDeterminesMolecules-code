@@ -77,12 +77,8 @@ To create the figure, execute the corresponding script in the folder "functions/
   > "/functions/figures" contains all scripts that create, when run, at least one of the manuscripts figures or figure panels.
   
   > "/functions/model_core" contains all the core functions (i.e., those actually implementing or solving equations). 
-    >> "get_distribution" solves the main mRNA and protein equations,
-
-
+    >> "get_distribution" solves the main mRNA and protein equations
     >> "get_cost" computes the associated metabolic cost,
-
-
     >> and the remaining three functions fit an ensemble diffusion constant to the 3-state transport model as explained in the manuscript.
   
   > "/functions/plotting" contains all functions that plot one or multiple panels of a figure.
