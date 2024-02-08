@@ -101,39 +101,75 @@ To create the figure, execute the corresponding script in the folder "functions/
 
 "/experimentalData/2022_05_20_morphologies_rat_hippocampus_control_culture_complete/firestein"
 > https://doi.org/10.1093/cercor/bhy155
+
+
 "/experimentalData/2022_05_20_morphologies_rat_hippocampus_control_culture_complete/opitz"
 > https://doi.org/10.1016/j.brs.2021.09.004
+
+
 "/experimentalData/2022_05_20_morphologies_rat_hippocampus_control_culture_complete/pozzo-miller"
 > https://doi.org/10.1016/j.nbd.2009.05.001
+
+
 "/experimentalData/mRNA_proteinData_Zappulo_2017", "/experimentalData/Figure_3/mrna_length"
 > https://doi.org/10.1038/s41467-017-00690-6
+
+
 "/experimentalData/cumulativeMitochondriaDensitySTD_Lopez-Domenech_2016"
 > https://doi.org/10.1016/j.celrep.2016.09.004
+
+
 "/experimentalData/mRNAData_Perez_2021"
 > https://doi.org/10.7554/elife.63092
+
+
 "/experimentalData/mRNAData_Schwanhaeusser_2011"
 > https://doi.org/10.1038/nature10098
+
+
 "/experimentalData/mRNAData_Sharova_2009"
 > https://doi.org/10.1093%2Fdnares%2Fdsn030
+
+
 "/experimentalData/mRNAData_Yang_2003"
 > https://doi.org/10.1101/gr.1272403
+
+
 "/experimentalData/mRNAData_Tushev_2018", "/experimentalData/Figure_3/mrna_halflife"
+> https://doi.org/10.1016/j.neuron.2018.03.030
+
 "/experimentalData/mRNAData_Zeisel_2015"
 > https://doi.org/10.1126/science.aaa1934
+
+
 "/experimentalData/protData_Doerrbaum_2018"
 > https://doi.org/10.7554/eLife.34202
+
+
 "/experimentalData/protData_Fornasiero_2018", "/experimentalData/Figure_3/protein_halflife", "/experimentalData/Figure_3/protein_length"
 > https://doi.org/10.1038/s41467-018-06519-0
+
+
 "/experimentalData/protData_Helm_2021", "/experimentalData/Figure_3/protein_copy_number"
 > https://doi.org/10.1038/s41593-021-00874-w
+
+
 "/experimentalData/protData_Mathieson_2018"
 > https://doi.org/10.1038/s41467-018-03106-1
+
+
 "/experimentalData/protData_Price_2010"
 > https://doi.org/10.1073/pnas.1006551107
+
+
 "/experimentalData/proteinDensity100Microns_Fonkeu_2019"
 > https://doi.org/10.1016/j.neuron.2019.06.022
+
+
 "/experimentalData/Shank3Dynamics_binned_Tsuriel_2006"
 > https://doi.org/10.1371/journal.pbio.0040271
+
+
 "/experimentalData/2023_09_25_proteinDiffConstants", "/experimentalData/Figure_3/protein_diffusion_coefficient"
 > https://doi.org/10.1016/S0012-1606(89)80051-X
 > https://doi.org/10.1073/pnas.1504762112
