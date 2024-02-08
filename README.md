@@ -6,7 +6,7 @@ by Cornelius Bergmann, Kanaan Mousaei, and Tatjana Tchumatchenko.**
 
 The only required program is MATLAB 2022b with the "Parallel Computing Toolbox" installed. It can also be used without the latter with decreased performance by replacing every instance of "parofor" by "for".
 
-For Supplementary Figure 11 (which is not related to the simulations of our model), the TREES toolbox (> https://www.treestoolbox.org/) by Hermann Cuntz and colleagues is required.
+For Supplementary Figure 11 (which is not related to the simulations of our model), the TREES toolbox (https://www.treestoolbox.org/) by Hermann Cuntz and colleagues is required.
 
 Software has successfully been tested on various machines with Windows as operating system.
 
@@ -30,7 +30,7 @@ For Figures 1B, 1C, 3 and Supplementary Figures 1, 6, 11, 13
 ------------------------------------------------------------
 
 To create a figure, execute the corresponding script in the folder "functions/figures". 
-Note that Supplementary Figure 11 in addition requires the TREES toolbox (> https://www.treestoolbox.org/) by Hermann Cuntz and colleagues.
+Note that Supplementary Figure 11 in addition requires the TREES toolbox (https://www.treestoolbox.org/) by Hermann Cuntz and colleagues.
 
 For Figures 1E, 1F, 2, 4A-C, and Supplementary Figures 3-5, 7-10, 12
 --------------------------------------------------------------------
@@ -78,7 +78,11 @@ To create the figure, execute the corresponding script in the folder "functions/
   
   >> "/functions/model_core" contains all the core functions (i.e., those actually implementing or solving equations). 
     >>> "get_distribution" solves the main mRNA and protein equations,
+
+
     >>> "get_cost" computes the associated metabolic cost,
+
+
     >>> and the remaining three functions fit an ensemble diffusion constant to the 3-state transport model as explained in the manuscript.
   
   >> "/functions/plotting" contains all functions that plot one or multiple panels of a figure.
