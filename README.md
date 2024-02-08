@@ -1,6 +1,6 @@
-readme for the code associated to the manuscript 
+**readme for the code associated to the manuscript 
 "How energy determines spatial localisation and copy number of molecules in neurons"
-by Cornelius Bergmann, Kanaan Mousaei, and Tatjana Tchumatchenko.
+by Cornelius Bergmann, Kanaan Mousaei, and Tatjana Tchumatchenko.**
 
 # 1. System requirements 
 
@@ -68,7 +68,7 @@ To create the figure, execute the corresponding script in the folder "functions/
 
 > "initPath_MATLAB" adds the whole project folder with subfolders to the MATLAB path. 
 
-> "/experimentalData" contains all experimental data we retrieved from online databases and publications. Their origins are detailed in the manuscript.
+> "/experimentalData" contains all experimental data we retrieved from online databases and publications. Their origins are detailed below.
 
 > "/files" contains precomputed simulation outputs to recreate the manuscript figures.
 
