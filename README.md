@@ -89,11 +89,11 @@ To create the figure, execute the corresponding script in the folder "functions/
 
 "/experimentalData/2022_05_20_morphologies_rat_hippocampus_control_culture_complete/andreae"
 > https://doi.org/10.1016/j.celrep.2015.01.032
-<"/experimentalData/2022_05_20_morphologies_rat_hippocampus_control_culture_complete/banerjee"
+< "/experimentalData/2022_05_20_morphologies_rat_hippocampus_control_culture_complete/banerjee"
 > https://doi.org/10.1016/j.neuroscience.2017.08.057
-<"/experimentalData/2022_05_20_morphologies_rat_hippocampus_control_culture_complete/bird"
+< "/experimentalData/2022_05_20_morphologies_rat_hippocampus_control_culture_complete/bird"
 > https://doi.org/10.1371/journal.pone.0079255
-<"/experimentalData/2022_05_20_morphologies_rat_hippocampus_control_culture_complete/firestein"
+< "/experimentalData/2022_05_20_morphologies_rat_hippocampus_control_culture_complete/firestein"
 > https://doi.org/10.1093/cercor/bhy155
 "/experimentalData/2022_05_20_morphologies_rat_hippocampus_control_culture_complete/opitz"
 > https://doi.org/10.1016/j.brs.2021.09.004
