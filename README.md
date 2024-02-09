@@ -14,9 +14,7 @@ No specific hardware is necessary to run the code.
 
 # 2. Installation guide 
 
-Ensure that MATLAB2022b and the aforementioned toolboxes are installed. To retrieve the code, also Git is necessary.
-
-Then change the directory to the desired location of the code, open a terminal and clone the code via git:
+Ensure that MATLAB2022b and the aforementioned toolboxes are installed. To retrieve the code, also Git is necessary. First, change the directory to the desired location of the code, then open a terminal and clone the repository:
 
 git init
 
