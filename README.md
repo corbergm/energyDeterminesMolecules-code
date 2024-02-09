@@ -90,6 +90,8 @@ To create the figure, execute the corresponding script in the folder "functions/
 
 # Data sources
 
+Let us clarify that this code uses previously published data sets, these are:
+
 "/experimentalData/2022_05_20_morphologies_rat_hippocampus_control_culture_complete/andreae"
 > https://doi.org/10.1016/j.celrep.2015.01.032
 
