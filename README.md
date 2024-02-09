@@ -17,7 +17,9 @@ No specific hardware is necessary to run the code.
 Ensure that MATLAB2022b and the aforementioned toolboxes are installed.
 
 Then change the directory to the desired location of the code, open a terminal and clone the code via git:
+
 git init
+
 git clone https://github.com/corbergm/energyDeterminesMolecules-code.git
 
 **Downloading the code as zip leaves some big data files impaired**
